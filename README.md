@@ -16,3 +16,5 @@ and replace text "YOUR_KEY_HERE" with your own Google Maps API Key.
 
 To get your own API Key follow the guide found behind this link:
 https://developers.google.com/maps/documentation/javascript/get-api-key
+
+abolevy.zip includes files about our circuit board.
