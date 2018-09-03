@@ -18,3 +18,5 @@ To get your own API Key follow the guide found behind this link:
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
 abolevy.zip includes files about our circuit board.
+
+Project_report is the final report of the project.
